@@ -1,73 +1,46 @@
-# Welcome to your Lovable project
+### 🚀 SmartBizGrow — AI-Powered Local Business Growth Platform
+(Also known as “BizBoost AI” or “AI-Powered Local Business Growth Platform”)
 
-## Project info
+## 🧩 Problem Statement
+Small and local businesses — such as shops, salons, cafés, or tuition centers — often struggle to grow because they:
 
-**URL**: https://lovable.dev/projects/10c83102-36de-4e1c-b891-f08558d6ac41
+Don’t know how to reach the right customers online
 
-## How can I edit this code?
+Can’t analyze their sales data or customer feedback
 
-There are several ways of editing your application.
+Lack the budget to hire marketing or data experts
 
-**Use Lovable**
+As a result, they rely only on word-of-mouth and lose ground to big chains or digital-first competitors.
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/10c83102-36de-4e1c-b891-f08558d6ac41) and start prompting.
+## 💡 Proposed Solution
+SmartBizGrow is an AI-driven platform that helps small businesses make smarter decisions through intelligent analytics, marketing insights, and automation tools.
 
-Changes made via Lovable will be committed automatically to this repo.
+## 🌟 Complete Feature Suite
+1. Onboarding & Core Navigation
 
-**Use your preferred IDE**
+**Landing Page**: Hero section with tagline, feature teasers, and free trial CTA (confetti animation).
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+**User Authentication**: Email/password or Google OAuth; onboarding wizard for business setup.
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+**Multi-Business Support**: Manage multiple outlets via a dropdown selector.
 
-Follow these steps:
+**AI Business Advisor**
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+**Pricing & Inventory Optimization**: AI recommends discounts/restocks based on trends and demand patterns.
+Chatbot Advisor: Natural language queries (e.g., "Best seller?") powered by OpenAI/Gemini for business-friendly responses.
+Voice-Activated Queries: Web Speech API integration for hands-free advice, with speech synthesis outputs.
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+**Customer Insights & Marketing**
 
-# Step 3: Install the necessary dependencies.
-npm i
+**Sentiment Analysis**: Processes reviews/chats with Transformers (e.g., distilbert) for emoji gauges (😊80% positive) and word clouds.
+Personalized Marketing Generator: AI crafts messages/offers (e.g., "10% off for loyal Mia") via GPT prompts.
+Content Creator: Generative AI for social posts/ads (GPT-4o-mini);
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
+**Local Discovery Boost**
 
-**Edit a file directly in GitHub**
+**Growth Roadmap**: GPT-generated quarterly PDFs with personalized milestones (e.g., "Q1: Loyalty program +₹5K").
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+**Community Page**
 
-**Use GitHub Codespaces**
+Dashboard Overview: Responsive analytics grid (sales, expenses,
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/10c83102-36de-4e1c-b891-f08558d6ac41) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
