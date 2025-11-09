@@ -184,11 +184,6 @@ SmartBizGrow/
     └── docs/
 ```
 
-🎬 Demo / Pitch Video
-
-🎥 (Upload once ready)
-Example: ▶ Watch on YouTube
-
 🤝 Team Credits
 Role	Name
 💻 Lead Developer	Srinjoyee Dey
