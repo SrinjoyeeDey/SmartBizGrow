@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://img.shields.io/badge/Protected%20Project%20-%20All%20Rights%20Reserved-red?style=for-the-badge&logo=github&logoColor=white" alt="Protected Project Badge"/>
+</p>
+
 <h1 align="center">🚀 SmartBizGrow — AI-Powered Local Business Growth Platform</h1>
 
 <p align="center">
